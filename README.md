@@ -4,19 +4,19 @@
 
 🚀 **Multifunctional Python Tool** adalah program multifungsi berbasis Python yang memiliki berbagai fitur menarik seperti kalkulator, konversi mata uang, generator password, seni ASCII, informasi waktu, faktorial, pengecekan tahun kabisat, kalender bulanan, cuaca saat ini, game tebak angka, pencarian bilangan prima, serta pengecekan informasi nomor HP secara detail! 🔥
 
-## 🎯 Fitur Utama
-✅ **Kalkulator** - Operasi matematika sederhana hingga lanjutan.
-✅ **Konversi Mata Uang** - Konversi dari USD ke IDR (kurs dapat diperbarui).
-✅ **Generator Password** - Membuat password acak yang kuat.
-✅ **Seni ASCII** - Mengubah teks menjadi seni ASCII keren.
-✅ **Informasi Waktu** - Menampilkan waktu saat ini.
-✅ **Hitung Faktorial** - Menghitung faktorial dari angka tertentu.
-✅ **Periksa Tahun Kabisat** - Mengetahui apakah suatu tahun adalah tahun kabisat.
-✅ **Kalender Bulanan** - Menampilkan kalender bulan tertentu.
-✅ **Cuaca Saat Ini** - Mengecek cuaca di kota yang diinginkan.
-✅ **Tebak Angka** - Game interaktif untuk menebak angka.
-✅ **Cari Bilangan Prima** - Menampilkan bilangan prima dalam rentang tertentu.
-✅ **Cek Informasi Nomor HP** - Menampilkan informasi lengkap nomor HP seperti operator, lokasi, dan tipe nomor. 📞
+## ✨ Fitur Utama
+- 🧮 **Kalkulator**: Lakukan operasi matematika dengan mudah.
+- 💱 **Konversi Mata Uang**: Ubah USD ke IDR secara cepat.
+- 🔐 **Generator Password**: Buat password yang aman dan unik.
+- 🎨 **Seni ASCII**: Buat teks keren dalam berbagai gaya.
+- ⏳ **Informasi Waktu Saat Ini**: Lihat tanggal dan waktu terkini.
+- 🏆 **Hitung Faktorial**: Hitung faktorial dari angka yang diberikan.
+- 📅 **Periksa Tahun Kabisat**: Ketahui apakah suatu tahun adalah kabisat.
+- 🗓️ **Kalender Bulanan**: Tampilkan kalender untuk bulan tertentu.
+- 🌤️ **Cuaca Saat Ini**: Dapatkan informasi cuaca dari berbagai kota.
+- 🎲 **Game Tebak Angka**: Uji keberuntungan Anda dalam permainan seru ini.
+- 🔢 **Cari Bilangan Prima**: Temukan bilangan prima dalam rentang tertentu.
+- 📱 **Cek Informasi Nomor HP**: Periksa detail nomor HP dengan validasi API.
 
 ## 🛠 Instalasi
 
