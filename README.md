@@ -6,8 +6,8 @@
 
 ## 📺 Preview
 
-![python](thumbanail/Preview.png)
-![python](thumbanail/Preview1.jpg)
+![python](thumbanail/Preview.jpg)
+![python](thumbanail/Preview1.png)
 
 ## ✨ Fitur Utama
 - 🧮 **Kalkulator**: Lakukan operasi matematika dengan mudah.
