@@ -4,6 +4,11 @@
 
 🚀 **Multifunctional Python Tool** adalah program multifungsi berbasis Python yang memiliki berbagai fitur menarik seperti kalkulator, konversi mata uang, generator password, seni ASCII, informasi waktu, faktorial, pengecekan tahun kabisat, kalender bulanan, cuaca saat ini, game tebak angka, pencarian bilangan prima, serta pengecekan informasi nomor HP secara detail! 🔥
 
+## 🖥️ Demo
+
+![python](thumbanail/Preview.png)
+![python](thumbanail/Preview1.png)
+
 ## ✨ Fitur Utama
 - 🧮 **Kalkulator**: Lakukan operasi matematika dengan mudah.
 - 💱 **Konversi Mata Uang**: Ubah USD ke IDR secara cepat.
